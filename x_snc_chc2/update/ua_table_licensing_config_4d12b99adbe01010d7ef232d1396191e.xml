@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>matt.wilkofsky@snc</sys_created_by>
         <sys_created_on>2020-05-05 11:43:11</sys_created_on>
-        <sys_id>9b71f95adbe01010d7ef232d139619b8</sys_id>
+        <sys_id>4d12b99adbe01010d7ef232d1396191e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_chc2_cars</sys_name>
         <sys_package display_value="Chc2" source="x_snc_chc2">2c11b15adbe01010d7ef232d139619e0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Chc2">2c11b15adbe01010d7ef232d139619e0</sys_scope>
-        <sys_update_name>ua_table_licensing_config_9b71f95adbe01010d7ef232d139619b8</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_4d12b99adbe01010d7ef232d1396191e</sys_update_name>
         <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
         <sys_updated_on>2020-05-05 11:43:11</sys_updated_on>
     </ua_table_licensing_config>
