@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Cars" max_length="40" name="x_snc_chc2_cars" type="collection">
+        <element choice="1" label="Chc2" max_length="40" name="chc2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ford" value="ford"/>
+                <element inactive_on_update="false" label="Kia" value="kia"/>
+                <element inactive_on_update="false" label="Toyota" value="toyota"/>
+            </choice>
+        </element>
         <element choice="1" label="Color" max_length="40" name="color" type="choice">
             <choice>
                 <element inactive_on_update="false" label="B2" value="red2"/>
