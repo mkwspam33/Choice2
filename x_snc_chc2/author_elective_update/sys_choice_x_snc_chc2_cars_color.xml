@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="color" table="x_snc_chc2_cars" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red</label>
+            <language>en</language>
+            <name>x_snc_chc2_cars</name>
+            <sequence/>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2020-05-05 11:43:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed917d5adbe01010d7ef232d13961991</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2020-05-05 11:43:44</sys_updated_on>
+            <value>red</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>color</element>
+            <name>x_snc_chc2_cars</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+            <sys_created_on>2020-05-05 11:43:41</sys_created_on>
+            <sys_id>ba91fd5adbe01010d7ef232d1396199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>color</sys_name>
+            <sys_package display_value="Chc2" source="x_snc_chc2">2c11b15adbe01010d7ef232d139619e0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Chc2">2c11b15adbe01010d7ef232d139619e0</sys_scope>
+            <sys_update_name>sys_choice_x_snc_chc2_cars_color</sys_update_name>
+            <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+            <sys_updated_on>2020-05-05 11:43:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Chc2">2c11b15adbe01010d7ef232d139619e0</application>
+        <file_path/>
+        <instance_id>6faf4259db31c8d042b321c40596198a</instance_id>
+        <instance_name>demonightlyorlando</instance_name>
+        <name>sys_choice_x_snc_chc2_cars_color</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="color" table="x_snc_chc2_cars" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>color</element><hint/><inactive>false</inactive><label>Red</label><language>en</language><name>x_snc_chc2_cars</name><sequence/><sys_created_by>matt.wilkofsky@snc</sys_created_by><sys_created_on>2020-05-05 11:43:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ed917d5adbe01010d7ef232d13961991</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>matt.wilkofsky@snc</sys_updated_by><sys_updated_on>2020-05-05 11:43:44</sys_updated_on><value>red</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>color</element><name>x_snc_chc2_cars</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>matt.wilkofsky@snc</sys_created_by><sys_created_on>2020-05-05 11:43:41</sys_created_on><sys_id>ba91fd5adbe01010d7ef232d1396199f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>color</sys_name><sys_package display_value="Chc2" source="x_snc_chc2">2c11b15adbe01010d7ef232d139619e0</sys_package><sys_policy/><sys_scope display_value="Chc2">2c11b15adbe01010d7ef232d139619e0</sys_scope><sys_update_name>sys_choice_x_snc_chc2_cars_color</sys_update_name><sys_updated_by>matt.wilkofsky@snc</sys_updated_by><sys_updated_on>2020-05-05 11:43:41</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>2088360858</payload_hash>
+        <record_name>Cars.Color</record_name>
+        <reverted_from/>
+        <source>3f61355adbe01010d7ef232d139619a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2020-05-05 11:44:27</sys_created_on>
+        <sys_id>79c1b19adbe01010d7ef232d1396197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e4a6c5760000001</sys_recorded_at>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2020-05-05 11:44:27</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>b1c1b19adde010102ef92b7cc457587c</update_guid>
+        <update_guid_history>b1c1b19adde010102ef92b7cc457587c:2088360858,35c1319a52e01010e0a66ecebb0575a0:-1319679316,e9a1319abfe01010838b8942d0c8a897:-2084147856,09a1319aece01010e17f2bedd8023169:1033991985,78a1319acee0101057f5e5003bcb9b65:-1319679316,7391319a74e01010b55b7b9f2d563b11:-1740695562,a391319ac6e010105e327538e944280d:2088360858,c791bd5ac9e01010f8fe19a5da0ae9d1:-21244006,7291fd5a2be01010ff7bc66becb9dea1:-795780578</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2020-05-05 11:44:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>ba91fd5adbe01010d7ef232d1396199f</sys_id>
+        <sys_metadata>ba91fd5adbe01010d7ef232d1396199f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>color</sys_name>
+        <sys_package display_value="Chc2" source="x_snc_chc2">2c11b15adbe01010d7ef232d139619e0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Chc2">2c11b15adbe01010d7ef232d139619e0</sys_scope>
+        <sys_scope_delete display_value="">1b3095aa2ca34d78b105c8f66060c904</sys_scope_delete>
+        <sys_update_name>sys_choice_x_snc_chc2_cars_color</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_snc_chc2_cars_color">79c1b19adbe01010d7ef232d1396197c</sys_update_version>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2020-05-05 11:44:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
