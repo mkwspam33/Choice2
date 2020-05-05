@@ -4,6 +4,7 @@
             <choice>
                 <element inactive_on_update="false" label="B2" value="red2"/>
                 <element inactive_on_update="false" label="B2" value="blue2"/>
+                <element inactive_on_update="false" label="G2"/>
             </choice>
         </element>
     </element>
